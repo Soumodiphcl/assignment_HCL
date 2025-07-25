@@ -1,2 +1,2 @@
-student file
-ho
+this is student text
+text added to file student.txt
